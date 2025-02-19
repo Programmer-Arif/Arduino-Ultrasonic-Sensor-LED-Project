@@ -18,13 +18,13 @@ This is an Arduino project using an HC-SR04 Ultrasonic Sensor and LEDs to measur
     <li><b>7 x 220Ω Resistors</li></b>
 </ul>
 
-</h2>Functionality</h2>
+<h2>Functionality</h2>
 
 When the red LED is ON - the object's distance is 50cm.
 
 When the yellow LED is ON - the object's distance is 4cm.
 
-</h2>Features</h2>
+<h2>Features</h2>
 
 The Arduino Ultrasonic Sensor LED project functions as a scale to measure an object's distance.
 
@@ -32,7 +32,7 @@ The measurement range can be extended by modifying the Arduino code.
 
 The HC-SR04 sensor includes an ultrasonic transmitter and receiver module to accurately detect objects.
 
-</h2>How It Works</h2>
+<h2>How It Works</h2>
 
 The HC-SR04 Ultrasonic Sensor emits ultrasonic waves.
 
@@ -42,7 +42,7 @@ The time taken for the waves to return is used to calculate the distance.
 
 The LEDs light up based on the measured distance.
 
-</h2>Installation & Usage</h2>
+<h2>Installation & Usage</h2>
 
 Connect the components as per the circuit diagram.
 
@@ -50,7 +50,7 @@ Upload the Arduino code to the Arduino Uno Board.
 
 Place an object in front of the sensor and observe the LED indicators.
 
-</h2>Customization</h2>
+<h2>Customization</h2>
 
 Modify the threshold values in the Arduino code to change when the LEDs turn on.
 
