@@ -1,0 +1,20 @@
+This is a Arduino and Ultrasonic Sensor project with LEDs to measure the distance of objects like scale.
+When an object comes close to the Hc-sr04 ultrasonic sensor it indicates the distance using LEDs.
+
+Requirements:
+i) Arduino Uno Board
+ii) Hc-sr04 ultrasonic sensor :-
+	Range: 2cm to 400cm
+	Operating voltage: 5V
+	Measuring Angle: 30 degree
+iii) Bread board
+iv) Jumper wire
+v) 7 x LEDs
+vi) 7 x 220ohm resistor
+
+When red LED is on - distance of object is 50cm
+When yellow LED is on - distance of object is 4cm
+
+Arduino Ultrasonic sensor LED project is somewhat like a scale to find distance measure of an object.
+We can easily extend the range of the Hc-sr04 sensor to changing code.
+The Hc-sr04 sensor comes complete with ultrasonic transmitter and receiver modules.
